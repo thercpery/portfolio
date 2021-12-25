@@ -92,6 +92,11 @@ footer {
 	text-decoration: underline;
 }
 
+#projects-container #tools #python {
+	width: 150px;
+	height: 150px;
+}
+
 #projects-container h1 {
 	animation-duration: 2s;
 }
